@@ -12,7 +12,7 @@ public class Controller {
 
     public void clickMeBtnPressed(){
         System.out.println(textField.getText());
-
+        System.out.println("nice!");
     }
 
 }
