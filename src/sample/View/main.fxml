@@ -24,7 +24,7 @@
         <menus>
           <Menu mnemonicParsing="false" text="File">
             <items>
-                  <MenuItem fx:id="miImportQuestions" mnemonicParsing="false" text="Import questions" />
+                  <MenuItem fx:id="miImportQuestions" mnemonicParsing="false" onAction="#miImportQuestionsClicked" text="Import questions" />
               <MenuItem mnemonicParsing="false" text="Close" />
             </items>
           </Menu>

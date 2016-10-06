@@ -1,0 +1,3 @@
+%Question Format DESCRIPTION::POINT::CORRECTANSWER::CHOICE1,,CHOICE2,,CHOICE3,,CHOICE4%
+Vem är bäst?::2::Christian::Stefan,,Christian,,Eric,,Robert
+Hur många ben har en elefant?::3::4::4,,3,,2,,1
